@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 Passionate student of Systems and Telecommunications Engineering, currently focusing on Java and cybersecurity, looking for opportunities to grow and contribute to the world of technology.<br>- 🔭 I’m currently working on honing my Java skills and embarking on my journey to land my first job in the tech industry. Excited to tackle new challenges, contribute to real-world projects, and learn from experienced developers.<br>- 🌱 I’m currently learning Backend techologies and Cybersecurity threats <br>- 👯 I’m looking to collaborate on innovative Java projects that challenge my skills and push the boundaries of software development.  <br>- 📫 How to reach me: stebanruiz@outlook.com<br>- ⚡ Fun fact: I like create some games in UnrealEngine
 
 
