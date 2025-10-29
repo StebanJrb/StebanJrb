@@ -11,7 +11,7 @@ I’m passionate about building intelligent, data-driven solutions — from **ET
 
 ### 🧠 Skills & Focus
 
-- 🔹 Skilled in **Python**, **SQL**, **Spark**, **Airflow**, **TensorFlow**, **PyTorch**, and **Docker**  
+- 🔹 Skilled in **Python**, **SQL**, **Spark**, **Airflow**, **TensorFlow**, **PyTorch**, and **Other Technologies**  
 - 🔹 Focused on **scalable architectures**, **MLOps**, and **data automation**  
 - 🔹 My repositories combine **engineering**, **data science**, and **deep learning** to create real-world impact  
 
