@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StebanJrb.StebanJrb" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey&size=50+15&pause=1000&color=0BC842&background=FFFFFF00&center=true&width=835&height=200&lines=Hi%2C+I'm+Julian+Steban!+;Machine+Learning+%26+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=50&pause=1000&color=0BC842&background=FFFFFF00&center=true&width=835&height=200&lines=Hi%2C+I'm+Julian+Steban!+;Machine+Learning+%26+Data+Engineer)](https://git.io/typing-svg)
 
 <h2 align="center">A passionate Machine Learning & Data Engineer!</h2>
 
