@@ -1,6 +1,38 @@
-# Hi, I'm <a href="https://www.linkedin.com/in/julian-ruiz-benavides-b15b59233/">Steban<a/>! 👋 
-## About Me 🚀
-Passionate student of Systems and Telecommunications Engineering, currently focusing on Java, Python and Cybersecurity, looking for opportunities to grow and contribute to the world of technology. <br>🔭  I’m currently working on honing my Programming skills and embarking on my journey to land a job in the tech industry. Excited to tackle new challenges, contribute to real-world projects, and learn from experienced developers.<br>🌱 I’m currently learning Backend techologies and Cybersecurity threats <br>👯 I’m looking to collaborate on innovative Java projects that challenge my skills and push the boundaries of software development.   <br>⚡ Fun fact: I like create some games in UnrealEngine
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StebanJrb.StebanJrb" />
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&color=0BC842&background=FFFFFF00&center=true&width=435&lines=Hi%2C+I'm+Julian+Steban!+;Machine+Learning+%26+Data+Engineer" alt="Typing SVG" /></a>
+</h1>
+
+<h2 align="center">A passionate Machine Learning & Data Engineer!</h2>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/StebanJrb/StebanJrb/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
 
 
 ## Technologies 💻:
