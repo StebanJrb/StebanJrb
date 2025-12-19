@@ -29,44 +29,59 @@ I’m passionate about building intelligent, data-driven solutions — from **ET
 
 ## 🚀 My Tech Stack
 
-<h3 align="center">☁️ Cloud Computing & Devops</h3>
+<h3 align="center">☁️ Cloud Computing & DevOps</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=5" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=5" />
 </p>
 
 <h3 align="center">⚙️ Version Control & Containerization</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes&perline=5" />
+  <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes&perline=5" />
 </p>
 
-<h3 align="center">🐍 Data Science & Machine Learning</h3>
+<h3 align="center">🐍 Data Engineering & Machine Learning</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=6" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48"/>
+</p>
+
+<h3 align="center">🔄 Data Pipelines & Streaming</h3>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" height="48"/>
+</p>
+
+<h3 align="center">📈 MLOps & Model Lifecycle</h3>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48"/>
+</p>
+
+<h3 align="center">🗄️ Databases & Data Warehouses</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=5" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48"/>
 </p>
 
 <h3 align="center">🖥️ Operating Systems & Shell</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,linux,debian,bash,raspberrypi&perline=5" />
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=5" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,debian,bash,raspberrypi&perline=5" />
 </p>
 
 <h3 align="center">💻 Development Environments (IDEs)</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode&perline=5" />
 </p>
 
 <h3 align="center">🌐 Backend & Web Development</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs&perline=5" />
 </p>
 
 <h3 align="center">🎨 Design & Graphics</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unrealengine,blender&perline=5" />
+  <img src="https://skillicons.dev/icons?i=unrealengine,blender&perline=5" />
 </p>
 
 ## Github Stats 📊:
