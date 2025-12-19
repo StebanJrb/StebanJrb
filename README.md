@@ -21,7 +21,7 @@ I’m passionate about building intelligent, data-driven solutions — from **ET
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stebanruiz/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stebanjrb) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Stebanjrb) [![Portafolio](https://img.shields.io/badge/Portafolio-28A745?style=for-the-badge)](ENLACE_A_TU_PORTAFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stebanruiz/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stebanjrb) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Stebanjrb) [![Portafolio](https://img.shields.io/badge/Portafolio-28A745?style=for-the-badge)](https://stebanruiz-portfolio.netlify.app/)
 
 </div>
 
