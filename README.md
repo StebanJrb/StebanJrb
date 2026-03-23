@@ -1,6 +1,5 @@
-# Hi, I'm Steban 👋
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StebanJrb.StebanJrb" />
+# Hi, I'm Steban 👋
 
 📍 **Colombia - Bogota** | 🤖 **System & Telecomunications Engineer** | 🚀 **Tech enthusiast passionate about building and exploring new technologies**
 
