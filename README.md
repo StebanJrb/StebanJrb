@@ -24,7 +24,7 @@ I’m passionate about building intelligent, data-driven solutions — from **ET
 
 ## 📚 Most Important Projects
 
-- 🔌 **[REST API Ingestion & Normalization Pipeline](https://github.com/StebanJrb/REST-API-Ingestion-and-Normalization-Pipeline)** — Production-grade API consumer with retry logic, JSON normalization, and idempotent PostgreSQL loads
+- 🔌 **[REST API Ingestion & Normalization Pipeline](https://github.com/StebanJrb/REST-API-Ingestion-Normalization-Pipeline)** — Production-grade API consumer with retry logic, JSON normalization, and idempotent PostgreSQL loads
 - ✅ **[Data Quality Pipeline with Great Expectations](https://github.com/StebanJrb/Data-Quality-Pipeline-with-Great-Expectations)** — Automated data contracts and validation suites integrated into Airflow and MLflow
 - 🛒 **[Batch ETL with Airflow — E-Commerce Star Schema](https://github.com/StebanJrb/Batch-ETL-with-Airflow-E-Commerce-Star-Schema)** — Daily ETL into a star schema warehouse with TaskGroups, XComs, and SCD Type 2
 - ⚡ **[Change Data Capture (CDC) with Debezium & Kafka](https://github.com/StebanJrb/Change-Data-Capture-CDC-with-Debezium-and-Kafka)** — Real-time CDC from PostgreSQL through Kafka to a Parquet data lake
