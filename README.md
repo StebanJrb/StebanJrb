@@ -14,7 +14,7 @@
 - Working across AWS, GCP, and Databricks to understand how the same problems get solved on different platforms
 - Focused on data quality, observability, and infrastructure that holds up under real conditions — not just notebooks that run once
 
->💡 *If you'd like to learn more about me, feel free to check out Kaggle for Notebooks and my portfolio for relevant information about me.*
+>💡 *If you'd like to learn more, feel free to check out Kaggle for Notebooks and my portfolio for relevant information about me.*
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stebanbenavides/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stebanjrb) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Stebanjrb) [![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge)](https://stebanjrbportolio.vercel.app/)
