@@ -43,8 +43,8 @@ Resilient REST API ingestion from the GitHub API — rate-limit-aware backoff, c
 7. **[CDC — Orders System Sync](https://github.com/StebanJrb/CDC-Orders-System-Sync-Debezium-Kafka-AWS-MSK)**
 Log-based Change Data Capture from PostgreSQL via Debezium and Kafka, with a documented production path to AWS MSK.
  
-8. **[Portfolio-Wide Data Observability](https://github.com/StebanJrb/Portfolio-Wide-Data-Observability-Lineage)**
-OpenLineage and Marquez tying lineage, freshness, and quality across the rest of this portfolio's pipelines into a single view.
+8. **[Cross-Team Data Observability Platform](https://github.com/StebanJrb/Cross-Team Data Observability-Platform)**
+A data platform team's answer to the ticket every growing company eventually files re do.
  
 9. **[Legacy Warehouse Migration](https://github.com/StebanJrb/Legacy-Warehouse-Migration-Northwind-dbt-Snowflake)**
 Migrating undocumented stored-procedure business logic to tested dbt models on Snowflake, with explicit parity testing against the legacy system.
