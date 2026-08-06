@@ -2,7 +2,7 @@
 
 # Hi, I'm Steban 👋
 
-📍 **Colombia - Bogota** | 🤖 **System & Telecomunications Engineer** | 🚀 **Tech enthusiast passionate about building and exploring new technologies**
+📍 **Bogota - Colombia** | 🤖 **System & Telecomunications Engineer** | 🚀 **Tech enthusiast passionate about building and exploring new data technologies**
 
 I’m passionate about building intelligent, data-driven solutions — from **ETL/ELT pipelines** and **large-scale data processing** to **training, deploying, and optimizing ML models**.
 
@@ -11,7 +11,7 @@ I’m passionate about building intelligent, data-driven solutions — from **ET
 ## 🧑🏻‍💻 What I'm Doing
 
 - Living the future by learning how **IA, Agents, Claude - Code and other tools** could change the way we Work and Develop
-- Focused on **scalable architectures**, **MLOps**, and **data automation** 
+- Focused on **scalable data architectures**, **MLOps**, and **data automation** 
 - Continuously improving my skills through hands-on projects and real-world challenges
 
 ## 🤝 Connect
