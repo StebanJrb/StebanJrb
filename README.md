@@ -57,9 +57,3 @@ End-to-end ETL from the Spotify API into a star schema warehouse with data quali
 
 12  **[MLOps PipeLine](https://github.com/StebanJrb/MLOps-Pipeline-CI-CD-Champion-Challenger-Drift-Monitoring)**
 An incremental, sprint-scoped warehouse migration — not a one-shot rewrite. Legacy business logic spans PostgreSQL stored procedures and a MongoDB collection owned by another team
- 
-## GitHub Stats
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=StebanJrb&theme=yeblu&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=StebanJrb&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StebanJrb&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
