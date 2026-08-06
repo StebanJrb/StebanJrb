@@ -55,5 +55,7 @@ AWS-based platform for multi-tenant isolation, PII governance, and self-service 
 11. **[ETL Data Pipeline — Spotify](https://github.com/StebanJrb/ETL-Data-Pipeline-Spotify)**
 End-to-end ETL from the Spotify API into a star schema warehouse with data quality gates.
 
-12  **[MLOps PipeLine](https://github.com/StebanJrb/MLOps-Pipeline-CI-CD-Champion-Challenger-Drift-Monitoring)**
+12. **[MLOps PipeLine](https://github.com/StebanJrb/MLOps-Pipeline-CI-CD-Champion-Challenger-Drift-Monitoring)**
 An incremental, sprint-scoped warehouse migration — not a one-shot rewrite. Legacy business logic spans PostgreSQL stored procedures and a MongoDB collection owned by another team
+
+
