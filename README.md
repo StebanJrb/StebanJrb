@@ -44,10 +44,10 @@ Resilient REST API ingestion from the GitHub API — rate-limit-aware backoff, c
 Log-based Change Data Capture from PostgreSQL via Debezium and Kafka, with a documented production path to AWS MSK.
  
 8. **[Cross-Team Data Observability Platform](https://github.com/StebanJrb/Cross-Team-Data-Observability-Platform)**
-A data platform team's answer to the ticket every growing company eventually files re do.
+Cross-team data observability platform (OpenLineage + Marquez + Grafana) catching silent pipeline failures — stale tables, dropped rows, volume anomalies — before they reach exec dashboards.
  
-9. **[Legacy Warehouse Migration](https://github.com/StebanJrb/Legacy-Warehouse-Migration-Northwind-dbt-Snowflake)**
-Migrating undocumented stored-procedure business logic to tested dbt models on Snowflake, with explicit parity testing against the legacy system.
+9. **[Incremental Warehouse Migration](https://github.com/StebanJrb/Legacy-Warehouse-Migration-Northwind-dbt-Snowflake)**
+Incremental warehouse migration (Postgres stored procs + MongoDB) to dbt + Snowflake, using shadow-mode parity checks and per-model feature-flagged cutover instead of a big-bang rewrite.
  
 10. **[Multi-Tenant Data Platform](https://github.com/StebanJrb/Multi-Tenant-Data-Platform-AWS)**
 AWS-based platform for multi-tenant isolation, PII governance, and self-service pipelines within guardrails — the capstone of this portfolio.
