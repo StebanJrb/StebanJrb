@@ -58,4 +58,7 @@ End-to-end ETL from the Spotify API into a star schema warehouse with data quali
 12. **[MLOps PipeLine](https://github.com/StebanJrb/MLOps-Pipeline-CI-CD-Champion-Challenger-Drift-Monitoring)**
 An incremental, sprint-scoped warehouse migration — not a one-shot rewrite. Legacy business logic spans PostgreSQL stored procedures and a MongoDB collection owned by another team
 
+13. **[Customer Churn Prediction](https://github.com/StebanJrb/Customer-Churn-Prediction-Tabular-Classification)**
+A machine learning coursework project that predicts churn for a simulated telecom operator, "Telmex Claro." a churn label driven by an interpretable business risk score.
+
 
